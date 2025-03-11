@@ -14,7 +14,7 @@ Elève ingénieur en [préciser sa spécialité]
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Pierre.Villain[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
