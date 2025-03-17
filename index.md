@@ -9,14 +9,12 @@ hero_image_ratio: is-1by1
 ---
 
 # Pierre Villain
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en énergie et numérique
 
 
-Disponible XX mois à partir de Date
 
 [Pierre.Villain@etu.unilasalle.fr]
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
 Permis B, voiture
 
