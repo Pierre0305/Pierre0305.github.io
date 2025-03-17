@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Pierre Villain
 Elève ingénieur en [préciser sa spécialité]
 
 
 Disponible XX mois à partir de Date
 
-[Pierre.Villain[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Pierre.Villain@etu.unilasalle.fr]
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
