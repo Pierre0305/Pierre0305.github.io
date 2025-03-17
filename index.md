@@ -8,15 +8,12 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Pierre Villain
+Elève ingénieur en énergie et numérique
 
 
-Disponible XX mois à partir de Date
+[Pierre.Villain@etu.unilasalle.fr]
 
-[Pierre.Villain[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
 Permis B, voiture
 
