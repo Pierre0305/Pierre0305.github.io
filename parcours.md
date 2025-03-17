@@ -16,20 +16,24 @@ Elève ingénieur en énergie et numérique
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
-
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-
 `2023` **CDK Technologie, course au large, chantier navale à Lorient**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage d'observation
+* Découverte de la production de composite de carbone/epoxy
+  avec des activités manuelles très pointues et de haute technicité
+  Travail sur la coque d’un IMOCA.
+  
+`2022` **Airbus, aéronautique, usine de Méault**
+
+_Stage d'observation
+*Découverte de nombreuses chaines de production complexes, ainsi que 
+ses différents métiers associés (production, méthodes, contrôle,
+logistique, industrialisation)
+
+`2020` **l'Oliphant, brasserie, Nantes**
+Découverte de l’univers des métiers liés à la brasserie:fabrication,
+vente, logistique et la comptabilité.
+
 
 
 
