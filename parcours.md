@@ -31,7 +31,8 @@ ses différents métiers associés (production, méthodes, contrôle,
 logistique, industrialisation)
 
 `2020` **l'Oliphant, brasserie, Nantes**
-Découverte de l’univers des métiers liés à la brasserie:fabrication,
+_Stage d'observation
+*Découverte de l’univers des métiers liés à la brasserie:fabrication,
 vente, logistique et la comptabilité.
 
 
