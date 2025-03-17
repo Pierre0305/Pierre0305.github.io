@@ -8,18 +8,11 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2020 – 2024`
+**Lycée Sainte Famille**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Elève ingénieur en énergie et numérique
+* Cours : projet prototypage
 
 ## Expériences
 
@@ -31,7 +24,7 @@ _Réalisé en équipe de XX étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2023` **CDK Technologie, course au large, chantier navale à Lorient**
 
 _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
