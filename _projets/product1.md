@@ -1,6 +1,6 @@
 ---
-title: Projet 1
-subtitle: Projet informatique
+title: Projet prototypage
+subtitle: Projet 
 description: Description du projet 1
 layout: product
 image: https://via.placeholder.com/640x480
