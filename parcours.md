@@ -41,22 +41,25 @@ vente, logistique et la comptabilité.
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : B1
+* LV2 à préciser : A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* OnShape
+* Base du C
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Sport nautique
+* Voile 
+* Kite surf (débutant) 
 
-Loisirs 1
-* Description 
-* Description 
+Roller hockey
+* En compétition
+
+*Sports mécaniques
+* Kart en loisir
+
+
+  
