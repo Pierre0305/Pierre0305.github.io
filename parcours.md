@@ -26,14 +26,14 @@ _Stage d'observation
 `2022` **Airbus, aéronautique, usine de Méault**
 
 _Stage d'observation
-*Découverte de nombreuses chaines de production complexes, ainsi que 
+* Découverte de nombreuses chaines de production complexes, ainsi que 
 ses différents métiers associés (production, méthodes, contrôle,
 logistique, industrialisation)
 
 `2020` **l'Oliphant, brasserie, Nantes**
 
 _Stage d'observation
-*Découverte de l’univers des métiers liés à la brasserie:fabrication,
+* Découverte de l’univers des métiers liés à la brasserie:fabrication,
 vente, logistique et la comptabilité.
 
 
