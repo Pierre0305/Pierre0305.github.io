@@ -45,7 +45,7 @@ Langues
 * LV2 à préciser : A2
 
 Informatique
-* OnShape
+* CAO (OnShape)
 * Base du C
 
 
