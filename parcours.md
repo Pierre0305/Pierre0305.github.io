@@ -12,7 +12,7 @@ download_cv: assets/docs/Template_CV.pdf
 **Lycée Sainte Famille**
 
 Elève ingénieur en énergie et numérique
-* Cours : projet prototypage
+* Cours : prototypage, physique, maths, informatique, électronique
 
 ## Expériences
 
