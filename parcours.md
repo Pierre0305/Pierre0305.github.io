@@ -58,7 +58,7 @@ Sport nautique
 Roller hockey
 * En compétition
 
-*Sports mécaniques
+Sports mécaniques
 * Kart en loisir
 
 
